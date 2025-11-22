@@ -2,6 +2,7 @@
 version: 1
 project:
   id: 000ef1c2-b7d9-472f-ba6f-7afb46bdce7e
+  title: Stat 159 Project 2
   github: https://github.com/UCB-stat-159-f25/proj02-group11
   toc:
     - file: README.md
@@ -12,15 +13,3 @@ project:
 
 site:
   template: book-theme
-  navbar:
-    links:
-      - file: README.md
-        title: Home
-      - file: nlp-P01.ipynb
-        title: Part 1
-      - file: nlp-P02.ipynb
-        title: Part 2
-      - file: nlp-P03.ipynb
-        title: Part 3
-      - file: nlp-P04.ipynb
-        title: Part 4 (DTM)
