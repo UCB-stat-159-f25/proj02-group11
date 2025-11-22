@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 000ef1c2-b7d9-472f-ba6f-7afb46bdce7e
-  title: Stat 159 Project 2
+  title: Stat 159 Project 2 NLP
   github: https://github.com/UCB-stat-159-f25/proj02-group11
   toc:
     - file: README.md
